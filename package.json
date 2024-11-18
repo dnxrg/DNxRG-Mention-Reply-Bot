@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dnxrgai": "^1.0.4"
+  }
+}

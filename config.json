@@ -1,0 +1,8 @@
+{  
+    "discordToken": "YOUR_DISCORD_BOT_TOKEN",  
+    "clientId": "YOUR_DISCORD_CLIENT_ID",  
+    "dnxrgApiKey": "YOUR_DNXRG_API_KEY",  
+    "model": "gpt-3.5-turbo",  
+    "botState": "on",  
+    "allowedChannels": ["YOUR_ALLOWED_CHANNEL_IDS"]  
+}  
